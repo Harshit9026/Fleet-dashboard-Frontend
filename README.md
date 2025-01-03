@@ -59,12 +59,10 @@ npm run dev
 
 ## Preview  
 
-## Preview  
-
 ### Dashboard View  
-![Dashboard Preview](https://github.com/Harshit9026/Fleet-dashboard-Frontend/raw/master/assets/dashboard.jpg)  
+![Dashboard Preview](https://github.com/Harshit9026/Fleet-dashboard-Frontend/src/assets/dashboard.jpg)  
 
 ### Map View  
-![Map View](https://github.com/Harshit9026/Fleet-dashboard-Frontend/raw/master/assets/mapview1.jpg)  
+![Map View](https://github.com/Harshit9026/Fleet-dashboard-Frontend/src/assets/mapview1.jpg)  
 
 
