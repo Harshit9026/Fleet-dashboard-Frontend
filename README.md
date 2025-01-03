@@ -10,49 +10,33 @@ This project was developed as part of an assessment challenge and demonstrates s
 - **Dynamic Map Integration**: Visualizes robot locations on a map using **Leaflet.js** or **Mapbox**.  
 - **Real-Time Updates**: Fetches telemetry data using **WebSockets** or periodic polling (every 5 seconds).  
 - **Highlights Critical Conditions**: Alerts for offline robots or those with low battery (<20%).  
-- **Filters**: Allows filtering robots by status (e.g., active, offline, low battery).  
+- **Filters**: Allows filtering robots by status (e.g., active, offline, low battery).
 
+## Tech Stack  
+### Frontend  
+- **React.js**: For building a clean, responsive dashboard.  
+- **Leaflet.js/Mapbox**: For rendering a map view of robot locations.  
 
+### Backend  
+- **FastAPI**: For simulating telemetry data for up to 10 robots.  
+- **WebSocket/REST API**: For exposing real-time data updates.
 
+## Getting Started  
 
+### Prerequisites  
+- Node.js and npm (for frontend setup)  
+- Python 3.8+ (for backend development)  
+- Docker (optional for containerization)  
 
+### Setup  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+#### Clone the Repository  
+```bash
+git clone [https://github.com/your-username/robot-fleet-dashboard.git](https://github.com/Harshit9026/Fleet-dashboard-Frontend)
+cd robot-fleet-dashboard
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -74,35 +58,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # Fleet-Montoring-Dashboard
 >>>>>>> 87d726b9d1c66427051b1bb84f42786a0ae0f2d6
