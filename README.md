@@ -1,3 +1,37 @@
+# Robot Fleet Monitoring Dashboard  
+
+## Project Overview  
+The **Robot Fleet Monitoring Dashboard** is a full-stack web application designed to monitor a fleet of robots in real-time. It displays essential telemetry data, including status, battery percentage, CPU usage, RAM consumption, and location on a dynamic map.  
+
+This project was developed as part of an assessment challenge and demonstrates skills in **frontend and backend development**, **real-time data handling**, and **deployment strategies**.  
+
+## Features  
+- **Real-Time Dashboard**: Displays robot details like ID, status (online/offline), battery percentage, CPU usage, RAM consumption, and last update time.  
+- **Dynamic Map Integration**: Visualizes robot locations on a map using **Leaflet.js** or **Mapbox**.  
+- **Real-Time Updates**: Fetches telemetry data using **WebSockets** or periodic polling (every 5 seconds).  
+- **Highlights Critical Conditions**: Alerts for offline robots or those with low battery (<20%).  
+- **Filters**: Allows filtering robots by status (e.g., active, offline, low battery).  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
