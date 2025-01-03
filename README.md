@@ -25,6 +25,34 @@ This project was developed as part of an assessment challenge and demonstrates s
 
 ### Prerequisites  
 - Node.js and npm (for frontend setup)  
-- Python 3.8+ (for backend development)  
-- Docker (optional for containerization)  
+- Python 3.8+ (for backend development)
+
+### Backend Setup
+## Clone the repository:
+  git clone https://github.com/Harshit9026/GitHub-Clone.git
+   
+   cd github-clone
+   
+## Navigate to the backend directory and install dependencies:
+
+cd backend
+
+npm install
+
+
+## Start the backend server:
+
+nodemon index.js
+
+## Frontend Setup
+
+Navigate to the frontend directory and install dependencies:
+
+cd ../frontend
+
+npm install
+
+## Start the frontend development server:
+
+npm run dev 
 
