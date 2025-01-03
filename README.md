@@ -29,7 +29,7 @@ This project was developed as part of an assessment challenge and demonstrates s
 
 ### Backend Setup
 ## Clone the repository:
-  git clone https://github.com/Harshit9026/GitHub-Clone.git
+  git clone https://github.com/Harshit9026/Fleet-dashboard-Frontend.git
    
    cd github-clone
    
@@ -55,4 +55,15 @@ npm install
 ## Start the frontend development server:
 
 npm run dev 
+
+
+## Preview  
+
+### Dashboard View  
+![Dashboard Preview](https://github.com/Harshit9026/Fleet-dashboard-Frontend/raw/main/assets/dashboard.png)
+
+
+### Map View  
+![Map Preview](https://github.com/your-username/your-repo-name/raw/main/assets/dashboard-preview.png)
+
 
